@@ -1,3 +1,3 @@
 # PANDAS
-Pandas kütüphanesi çalışması
+Pandas kütüphanesi çalışması\
 Veri setleri 
