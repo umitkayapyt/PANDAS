@@ -1,3 +1,4 @@
 # PANDAS
 Pandas kütüphanesi çalışması\
-Veri setleri 
+Veri setleri \
+Kaynak:TirendazAkademi/Youtube
